@@ -1,11 +1,13 @@
-## _Hi there_ 👋
-#### _Ths is Kiran Khatri._
+## _Hi, Welcome to my github page_ 👋
+#### I am Kiran Khatri.
 - 🔭 I’m currently working on: 
   * *Personal Project*
 - 🌱 I’m currently learning: 
     * `Quantum Computing`
-    * `JavaScript and CSS`
+    * `Software development`
     * `Web Development`
+    * `c++`
+      
 - 📫 How to reach me: (Email) Keon.pgm@gmail.com
 
 
