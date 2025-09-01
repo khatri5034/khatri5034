@@ -4,9 +4,10 @@
   * *Personal Project*
 - 🌱 I’m currently learning: 
     * `Quantum Computing`
-    * `Software development`
-    * `Web Development`
-    * `c++`
+    * `OS`
+    * `C`
+    * `Computational linear algebra`
+    * `AI`
       
 - 📫 How to reach me: (Email) Keon.pgm@gmail.com
 
